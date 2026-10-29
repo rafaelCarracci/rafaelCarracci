@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou o Rafael 👋
 
-<!--
-**rafaelCarracci/rafaelCarracci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Defesa Cibernética** na FATEC Jundiaí, com formação técnica em Desenvolvimento de Sistemas (ETEC). Gosto de construir soluções que protegem e ajudam pessoas comuns.
 
-Here are some ideas to get you started:
+## No que trabalho
+- 🔐 Segurança digital e conscientização (phishing, senhas, LGPD)
+- 📱 Apps acessíveis com .NET MAUI
+- 🌐 Sites e projetos web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [SegurancaDigital-2026](https://github.com/rafaelCarracci/SegurancaDigital-2026): atividade extensionista sobre segurança na internet
+- [agenda-](https://github.com/rafaelCarracci/agenda-): app de consultas com acessibilidade para idosos
+- [fragantia](https://github.com/rafaelCarracci/fragantia): site de perfumaria com criador de perfumes
+
+## Stack
+C · C++ · C# · Python · SQL · .NET MAUI · HTML/CSS
+
+## Contato
+[LinkedIn](COLE-SEU-LINK-AQUI) · Jundiaí, SP
